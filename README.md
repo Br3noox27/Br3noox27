@@ -4,9 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=50C878&height=350&section=header&width=1000" 
        style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;" />
 
-  <!-- Imagem dentro da onda centralizada -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; text-align: center;">
-    <img src="https://example.com/your-image.jpg" style="width: 200px; height: auto; border-radius: 50%; object-fit: cover;" />
+  <!-- Conteúdo centralizado dentro da onda -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; text-align: center; width: 100%;">
+    <!-- Imagem centralizada -->
+    <img src="https://example.com/your-image.jpg" style="width: 200px; height: auto; border-radius: 50%; object-fit: cover; margin-bottom: 20px;" />
+    <!-- Texto -->
     <h1 style="font-size: 35px; color: white;">HELLO, MY NAME IS Breno Laurentino</h1>
     <p style="font-size: 20px; color: white;">I'm 19 years old, from São Paulo, Brazil</p>
     <p style="font-size: 20px; color: white;">I study Data Science and Development</p>

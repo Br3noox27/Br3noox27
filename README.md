@@ -1,12 +1,15 @@
 <!-- Banner com efeito de onda PRETO e texto centralizado -->
-<div style="position: relative; width: 100%; height: 300px; overflow: hidden; background-color: #000;">
+<div style="position: relative; width: 100%; height: 350px; overflow: hidden; background-color: #000;">
   <!-- Imagem de fundo com onda preta -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=350&section=header&width=1000" 
        style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;" />
 
   <!-- Texto centralizado dentro da imagem -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Breno+Laurentino;I'm+19+years+old;I'm+from+São+Paulo,+Brazil;I+study+Data+Science+and+Development;Welcome!+🚀"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; text-align: center; color: white;">
+    <h1 style="font-size: 35px;">HELLO, MY NAME IS Breno Laurentino</h1>
+    <p style="font-size: 20px;">I'm 19 years old, from São Paulo, Brazil</p>
+    <p style="font-size: 20px;">I study Data Science and Development</p>
+    <p style="font-size: 20px;">Welcome! 🚀</p>
   </div>
 </div>
 
@@ -62,4 +65,4 @@
 </div>
 
 <!-- Rodapé com onda -->
-<img width=100% src="https://caps
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>

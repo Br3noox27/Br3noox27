@@ -1,64 +1,48 @@
-<!-- Banner com Fundo Dinâmico e Texto Centralizado -->
-<div style="position: relative; width: 100%; height: 350px; overflow: hidden; background: linear-gradient(135deg, #00b4d8, #0077b6);">
-  <!-- Imagem de fundo animada -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=350&section=header&width=1000" 
-       style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;" />
-
-  <!-- Conteúdo Centralizado -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; text-align: center; color: white; font-family: 'Roboto', sans-serif;">
-    <!-- Imagem Circular com Border Estilizada -->
-    <img src="https://example.com/your-image.jpg" style="width: 180px; height: 180px; border-radius: 50%; border: 5px solid #fff; object-fit: cover; margin-bottom: 20px;" />
-    <!-- Nome e Descrição -->
-    <h1 style="font-size: 40px; font-weight: bold; letter-spacing: 2px;">Hi, I'm Breno Laurentino</h1>
-    <p style="font-size: 22px; margin: 10px 0; font-style: italic;">Data Science Enthusiast | Developer</p>
-    <p style="font-size: 18px;">19 years old | From São Paulo, Brazil</p>
-    <p style="font-size: 18px;">I specialize in data science, machine learning, and full-stack development</p>
-  </div>
-</div>
-
-<!-- Seção de Estatísticas do GitHub -->
-<div align="center" style="margin-top: 30px;">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Br3noox27&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Br3noox27 github stats" /> 
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br3noox27&layout=compact&hide_border=true&title_color=00b4d8&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-<!-- Seção de Activity Graph -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Br3noox27&bg_color=1e6c67&color=090709&line=fff5ff&point=403d3d&area=true&hide_border=true" alt="Br3noox27 activity graph" />
-</div>
-
-<!-- Troféus de Conquistas -->
-<p align="center" style="margin-top: 30px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Br3noox27&theme=onedark&column=4&no-bg=true&margin-w=15&margin-h=15" />
+<!-- Banner com Saudação -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6704A3&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Breno%20👋&fontSize=30&fontColor=ffff" />
 </p>
 
-<!-- Links de Redes Sociais -->
-<div align="center" style="margin-top: 30px;">  
-  <a href="https://www.instagram.com/blaurentino_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/breno-laurentino/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:brenolaurentino008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<!-- Apresentação -->
+## 👨‍💻 Sobre mim
 
-<!-- Skills principais com ícones modernos -->
-### 🚀 Main Skills:
-<img align="center" alt="Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="JavaScript" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Machine Learning" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+- 🎯 Focado em Data Science, Desenvolvimento e Automação de Sistemas.
+- 🛠️ Tecnologias favoritas: `Python`, `JavaScript`, `SQL Server`, `Machine Learning`, `Data Analysis`, `Git`, `Data Visualization`.
+- 📊 Experiência com análise de dados, aprendizado de máquina e desenvolvimento de sistemas.
+- 🌎 Idiomas: Português e Inglês.
 
-<!-- Contador de visitas -->
-<div align="center" style="margin-top: 30px;">
-  <br><p align="center"><b>Visitor Counter</b></p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Br3noox27}/count.svg" />
-  </p> 
-  <br>
-</div>
+---
 
-<!-- Rodapé com Onda Animada -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer"/>
+## 🚀 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFD700?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-00BFFF?style=flat-square&logo=python&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-32CD32?style=flat-square&logo=tableau&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Br3noox27&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Br3noox27 github stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br3noox27&layout=compact&hide_border=true&title_color=00b4d8&text_color=FFFFFF&bg_color=0d1117" />
+</p>
+
+---
+
+## 📫 Vamos conversar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/breno-laurentino/)
+- 📧 Email: brenolaurentino008@gmail.com
+- 🌐 Portfólio: [seuportfolio.com](https://github.com/Br3noox27)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6704A3&height=120&section=footer"/>
+</p>

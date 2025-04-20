@@ -39,7 +39,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/breno-laurentino/)
 - 📧 Email: brenolaurentino008@gmail.com
-- 🌐 Portfólio: [seuportfolio.com](https://github.com/Br3noox27)
+- 🌐 Portfólio:https://github.com/Br3noox27
 
 ---
 

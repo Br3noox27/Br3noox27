@@ -1,6 +1,6 @@
 <!-- Banner com Saudação -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6704A3&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Breno%20👋&fontSize=30&fontColor=ffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#992B2B&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Breno%20👋&fontSize=30&fontColor=ffff" />
 </p>
 
 <!-- Apresentação -->
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6704A3&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#992B2B&height=120&section=footer"/>
 </p>

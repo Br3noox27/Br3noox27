@@ -1,8 +1,7 @@
 <!-- Banner com Saudação -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Breno%20👋&fontSize=30&fontColor=ffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=860007&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Breno%20👋&fontSize=30&fontColor=ffff" />
 </p>
-
 <!-- Apresentação -->
 ## 👨‍💻 Sobre mim
 
@@ -46,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=860007&height=120&section=footer"/>
 </p>

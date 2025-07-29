@@ -1,17 +1,16 @@
 <h1 align="center">Br3noox27 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor autodidata, criador de soluções com impacto real e apaixonado por tecnologia que resolve problemas.
+  Desenvolvedor autodidata focado em Data Science, automações e sistemas que trazem impacto real.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de Eletromecânica no SENAI
-- 🧠 Apaixonado por ciência de dados, automações, sistemas web e bots inteligentes
-- 💼 Experiência na área técnica e com projetos práticos (hospital, loja, bots etc.)
-- 🌍 Sempre buscando aprender e aplicar de forma útil
-- 🧰 Stack: Python • JavaScript • React • Node.js • Google Sheets API • ChatGPT API
+- Estudante de Eletromecânica no SENAI  
+- Apaixonado por ciência de dados, automações, visualização e bots inteligentes  
+- Stack favorita: **Python • Shell Script • Jupyter Notebook • Sklearn • Selenium • Pandas**  
+- Fluente em Português e Inglês
 
 ---
 
@@ -19,10 +18,12 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 💬 **Bot Hospitalar** | Envia mensagens automáticas no WhatsApp para pacientes e atualiza planilhas do Google Sheets | Python, Selenium, Google Sheets API |
-| 📊 **Dashboard Financeiro** | App de controle financeiro pessoal com gráficos, entradas e saídas | Python, customTkinter, Matplotlib |
-| 🛍️ **VOYA & Co** | Loja de moda streetwear com branding próprio e modelos IA | Shopify, Midjourney, design |
-| 📱 **Tradutor de Texto com IA** | Tradutor PT ↔ EN com interface e uso da OpenAI API | Python, customTkinter, ChatGPT API |
+| **Bot Hospitalar** | Automação em Python que envia mensagens personalizadas via WhatsApp Web para pacientes, agilizando agendamento de consultas. Redução de horas de trabalho manual com eficiência operacional 📉. | Python, Selenium, Pandas, Jupyter Notebook :contentReference[oaicite:0]{index=0} |
+| **AutoTransfer‑Arquivos‑Rotina** | Script em Shell que detecta automaticamente Pen Drive conectado e transfere os arquivos mais recentes para a pasta correta, eliminando tarefas repetitivas. | Shell Script, Automação de arquivos :contentReference[oaicite:1]{index=1} |
+| **Bike_sales_prediction_Sklearn** | Modelo de previsão de vendas usando regressão linear com Scikit‑Learn. Análise de dados de vendas de bicicletas em diferentes países. | Python, Sklearn, Jupyter Notebook :contentReference[oaicite:2]{index=2} |
+| **Marketing_pred** | Projeto de classificação para prever sucesso de campanhas de marketing, com métricas como precisão, recall e F1‑score. | Python, Machine Learning, Jupyter Notebook :contentReference[oaicite:3]{index=3} |
+| **Bank‑Churn** | Análise de churn bancário para prever cancelamento de contas de clientes. Inclui visualizações e uso de XGBoost com acerto de ~73%. | Python, ML (XGBoost), Jupyter Notebook :contentReference[oaicite:4]{index=4} |
+| **Repositório "Breno"** | Coletânea de cadernos Jupyter com estudos diversos: automação de tarefas, data analysis, web scraping, cotação do dólar etc. Ótimo para mostrar evolução técnica. | Python, Jupyter Notebook :contentReference[oaicite:5]{index=5} |
 
 ---
 
@@ -36,8 +37,8 @@
 ---
 
 ### 📬 Entre em contato
-- ✉️ Email: brenolaurentino27@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/br3noox27](https://linkedin.com/in/br3noox27) *(cria se ainda não tiver!)*  
-- 🧠 "Sempre em modo aprendizado" – Br3noox
+- LinkedIn: [linkedin.com/in/br3noox27](https://www.linkedin.com/in/br3noox27/)  
+- "Sempre em modo aprendizado" – Br3noox27
 
 ---
+

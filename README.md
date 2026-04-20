@@ -1,57 +1,50 @@
+# Breno Laurentino
+### Dev Backend Python · Automação · ADS @ FIAP
 
-<h1 align="center">Breno Laurentino</h1>
-
-<p align="center">
-  <b>Python Developer · Automation & ML · ADS @ FIAP</b><br/>
-  São Paulo, Brasil
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/breno-laurentino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Br3noox27&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-</p>
+São Paulo, Brasil · [LinkedIn](https://linkedin.com/in/breno-laurentino/)
 
 ---
 
-### Sobre mim
+## Sobre
 
-Desenvolvedor Python focado em **automação de processos** e **projetos de Machine Learning**. Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP e construindo soluções que reduzem trabalho manual e geram valor real.
+Desenvolvedor focado em **backend Python e automação de processos**. 
+Construo sistemas que resolvem problemas reais de operação.
 
-- Experiência prática com web scraping, ETL e bots de automação
-- Projetos com Scikit-learn, Pandas e análise de dados
-- Interesse crescente em MLOps e deploy de modelos em produção
-
----
-
-### Stack principal
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+Atualmente cursando ADS na FIAP. Meu projeto em destaque é um sistema 
+de monitoramento de manutenção implantado em operação logística, em 
+uso diário pela equipe de técnicos.
 
 ---
 
-### Estatísticas
+## Destaques
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Br3noox27&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br3noox27&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages"/>
-</p>
+🏭 **[Packing Machines Dashboard](https://github.com/Br3noox27/packing-machines-dashboard)**  
+Sistema de monitoramento de manutenção em produção. Em uso desde março/2026.
+
+🤖 **[WhatsApp Appointment Automation](https://github.com/Br3noox27/WhatsApp-Appointment-Automation-)**  
+Automação de envio de confirmação de consultas. De ~3h manuais para <15s por mensagem.
 
 ---
 
-### Em andamento
+## Stack
 
-- Aprofundando conhecimentos em **MLOps** (pipelines, versionamento de modelos)
-- Estudando **FastAPI** para servir modelos e APIs de automação
-- Explorando **LLMs** e integração com APIs de IA generativa
+**Backend:** Python · FastAPI · SQLAlchemy  
+**Dados:** PostgreSQL · Pandas · SQL  
+**Automação:** Selenium · Apps Script · Web Scraping  
+**Frontend:** HTML · CSS · JavaScript · Chart.js · Tailwind  
+**DevOps:** Docker · Git *(em aprendizado: GitHub Actions, Kubernetes)*
+
+---
+
+## Em construção
+
+- Reescrevendo o Packing Dashboard em FastAPI + PostgreSQL (v2)
+- Aprofundando FastAPI, pytest e deploy containerizado
+- Estudando arquitetura de sistemas backend
+
+---
+
+## Contato
+
+💼 [LinkedIn](https://linkedin.com/in/breno-laurentino/)  
+📧 brenolaurentino008@gmail.com

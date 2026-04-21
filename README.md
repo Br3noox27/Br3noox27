@@ -1,125 +1,74 @@
-<h1 align="center">Fala, sou o Breno 👋</h1>
+### Breno Laurentino
 
-<h3 align="center">Dev Backend Python · Automação · ADS @ FIAP</h3>
+**Dev Backend Python · Automação · ADS @ FIAP**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev+Backend+Python;Automa%C3%A7%C3%A3o+de+processos;Constru%C3%ADdo+algo+em+produ%C3%A7%C3%A3o+no+Meli;Aprendendo+FastAPI+e+Docker&center=true&width=500&height=45&color=58a6ff&vCenter=true&size=20" />
-</p>
+São Paulo, Brasil
 
-<p align="center">
-  <a href="https://linkedin.com/in/breno-laurentino/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:brenolaurentino008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Br3noox27">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/São_Paulo-BR-009C3B?style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-breno--laurentino-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/breno-laurentino/)
+[![Email](https://img.shields.io/badge/Email-brenolaurentino008@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brenolaurentino008@gmail.com)
 
 ---
 
-### 🧠 Sobre mim
+#### Sobre
 
-```python
-breno = {
-    "role": "Dev Backend Python",
-    "focus": ["APIs", "Automação de processos", "Dados"],
-    "stack_atual": ["Python", "FastAPI", "SQL", "Docker"],
-    "formação": "ADS @ FIAP",
-    "projeto_destaque": "Sistema em produção no CD do Mercado Livre",
-    "objetivo_2026": "Vaga de estágio/júnior em tech"
-}
-```
+Construo sistemas backend em Python e automações que resolvem problemas reais de operação.
 
-Construo sistemas que **resolvem problemas reais de operação** — não notebooks de tutorial.  
-Meu projeto em destaque é um dashboard de monitoramento de manutenção **em uso diário pela equipe de técnicos** desde março/2026.
+Hoje trabalho na manutenção de um CD do Mercado Livre, onde identifiquei uma dor do time e entreguei um dashboard de monitoramento em tempo real — em uso diário pelos técnicos desde março/2026.
+
+Cursando Análise e Desenvolvimento de Sistemas na FIAP.  
+**Objetivo:** primeira vaga de estágio em tech ainda em 2026.
 
 ---
 
-### 🛠 Stack
+#### Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50" title="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" title="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" title="Google Apps Script"/>
-</p>
+**Principal**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+**Automação & Dados**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Apps Script](https://img.shields.io/badge/-Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ⭐ Projetos em destaque
+**Frontend (básico)**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏭 <a href="https://github.com/Br3noox27/packing-machines-dashboard">Packing Machines Dashboard</a></h4>
-      <p>Sistema web de monitoramento em tempo real de manutenção de máquinas de embalagem. <b>Implantado em CD do Mercado Livre</b> e em uso diário pela equipe de técnicos desde março/2026.</p>
-      <p>
-        <img src="https://img.shields.io/badge/status-em_produção-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Br3noox27/WhatsApp-Appointment-Automation-">WhatsApp Appointment Automation</a></h4>
-      <p>Automação Python para envio de mensagens de confirmação de consultas via WhatsApp Web. <b>Redução de ~3h manuais para menos de 15s por mensagem.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+**DevOps & Ferramentas**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub em números
+#### Projetos em destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Br3noox27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br3noox27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
+**[Packing Machines Dashboard](https://github.com/Br3noox27/packing-machines-dashboard)** — Em produção  
+Sistema web de monitoramento em tempo real de manutenção de máquinas de embalagem, implantado na linha de produção de um CD do Mercado Livre. Em uso diário por técnicos em 4 turnos, monitorando 12 máquinas.  
+`HTML` `JavaScript` `Chart.js` `Apps Script` `Google Sheets`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br3noox27&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 Em construção
-
-- 🔄 **Reescrevendo o Packing Dashboard em FastAPI + PostgreSQL** (v2 com stack de produção)
-- 🧪 Aprofundando testes com **pytest** e deploy **containerizado com Docker**
-- 🧱 Estudando padrões de arquitetura backend e boas práticas de sistemas distribuídos
+**[WhatsApp Appointment Automation](https://github.com/Br3noox27/WhatsApp-Appointment-Automation-)**  
+Automação Python para envio personalizado de mensagens de confirmação de consultas via WhatsApp Web. Substituiu um processo manual que consumia ~3h, passando para menos de 15 segundos por mensagem.  
+`Python` `Selenium` `Pandas`
 
 ---
 
-### 📫 Vamos conversar
+#### GitHub stats
 
-<p align="center">
-  <a href="https://linkedin.com/in/breno-laurentino/">
-    <img src="https://img.shields.io/badge/-breno--laurentino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:brenolaurentino008@gmail.com">
-    <img src="https://img.shields.io/badge/-brenolaurentino008@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Br3noox27">
+  <img src="https://github-readme-stats.vercel.app/api?username=Br3noox27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&card_width=500" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Br3noox27&style=for-the-badge&color=58a6ff&label=Visitantes+do+perfil" />
-</p>
+---
+
+#### No momento estou
+
+- Reescrevendo o Packing Dashboard em **FastAPI + PostgreSQL** (v2 com stack de produção)
+- Aprofundando **testes com pytest** e deploy containerizado
+- Construindo portfólio para processo seletivo de estágio

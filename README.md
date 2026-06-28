@@ -16,7 +16,7 @@ Construo sistemas backend em Python e automações que resolvem problemas reais 
 Hoje trabalho na manutenção de um CD do Mercado Livre, onde identifiquei uma dor do time e entreguei um dashboard de monitoramento em tempo real — em uso diário pelos técnicos desde março/2026.
 
 Cursando Análise e Desenvolvimento de Sistemas na FIAP.  
-**Objetivo:** primeira vaga de estágio em tech ainda em 2026.
+
 
 ---
 
